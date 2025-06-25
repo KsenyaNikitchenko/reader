@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="all_books">Все книги</string>
+    <string name="read_books">Прочитанное</string>
+    <string name="currently_reading">Читаю сейчас</string>
+    <string name="authors">Авторы</string>
+    <string name="series">Серии</string>
+    <string name="library">Библиотека</string>
+    <string name="add_books">Добавить книги</string>
+    <string name="book_details">Подробная информация</string>
+    <string name="read">Читать</string>
+    <string name="continue_reading">Продолжить чтение</string>
+    <string name="start_reading">Начать чтение</string>
+    <string name="mark_as_read">Отметить как прочитанное</string>
+    <string name="reading_progress">Прогресс чтения</string>
+    <string name="description">Описание</string>
+    <string name="no_description">Описание отсутствует</string>
+    <string name="book_not_found">Книга не найдена</string>
+    <string name="menu">Меню</string>
+    <string name="back">Назад</string>
+    <string name="settings">Настройки</string>
+    <string name="previous_page">Предыдущая страница</string>
+    <string name="next_page">Следующая страница</string>
+    <string name="page">Страница</string>
+    <string name="book_finished">Книга прочитана!</string>
+    <string name="books_added">Добавлено книг: %1$d</string>
+    <string name="error_adding_books">Ошибка при добавлении книг: %1$s</string>
+    <string name="error_updating_progress">Ошибка при обновлении прогресса: %1$s</string>
+    <string name="series_prefix">Серия: %1$s</string>
+    <string name="author_books">Книги: %1$s</string>
+    <string name="series_books">Серия: %1$s</string>
+</resources>
