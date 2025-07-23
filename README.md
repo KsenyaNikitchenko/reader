@@ -10,12 +10,34 @@
 <img src="img/image.png" width="800" height="600" alt="Диаграмма вариантов использования"/>
 
 ## Интерфейс приложения
+*Главная страница*
 
 <img src="img/image-1.png" width="540" height="1200" alt="Главная старица"/>
+
+*Меню приложения*
+
 <img src="img/image-2.png" width="270" height="1200" alt="Меню приложения"/>
+
+*Страница с подробной информацией о книге*
+
 <img src="img/image-3.png" width="810" height="1200" alt="Страница с подробной информацией о книге"/>
+
+*Режим чтения*
+
 <img src="img/image-4.png" width="270" height="1200" alt="Режим чтения"/>
+
+*Страница авторов*
+
 <img src="img/image-5.png" width="540" height="1200" alt="Страница авторов"/>
+
+*Страница серий*
+
 <img src="img/image-6.png" width="540" height="1200" alt="Страница серий"/>
+
+*Статистика за месяц*
+
 <img src="img/image-7.png" width="270" height="1200" alt="Статистика за месяц"/>
+
+*Статистика за  год*
+
 <img src="img/image-8.png" width="270" height="1200" alt="Статистика за  год"/>
