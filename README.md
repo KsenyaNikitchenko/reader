@@ -7,14 +7,15 @@
 - библиотека для работы с базой данных ***Room***
 
 **Основные функции приложения представлены на диаграмме ниже**
-![Диаграмма вариантов использования](img/image.png "Диаграмма вариантов использования")
+<img src="img/image.png" width="800" height="600" alt="Диаграмма вариантов использования"/>
 
-**Интерфейс приложения**
-![alt text](img/image-1.png "Главная старица")
-![alt text](img/image-2.png "Меню приложения")
-![alt text](img/image-3.png "Страница с подробной информацией о книге")
-![alt text](img/image-4.png "Режим чтения")
-![alt text](img/image-5.png "Страница авторов")
-![alt text](img/image-6.png "Страница серий")
-![alt text](img/image-7.png "Статистика за месяц")
-![alt text](img/image-8.png "Статистика за  год")
+## Интерфейс приложения
+
+<img src="img/image-1.png" width="540" height="1200" alt="Главная старица"/>
+<img src="img/image-2.png" width="270" height="1200" alt="Меню приложения"/>
+<img src="img/image-3.png" width="810" height="1200" alt="Страница с подробной информацией о книге"/>
+<img src="img/image-4.png" width="270" height="1200" alt="Режим чтения"/>
+<img src="img/image-5.png" width="540" height="1200" alt="Страница авторов"/>
+<img src="img/image-6.png" width="540" height="1200" alt="Страница серий"/>
+<img src="img/image-7.png" width="270" height="1200" alt="Статистика за месяц"/>
+<img src="img/image-8.png" width="270" height="1200" alt="Статистика за  год"/>
